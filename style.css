@@ -1,0 +1,27 @@
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url(https://developers.institute/wp-content/uploads/2019/03/header.jpg);
+  background-size: 100%;
+}
+
+
+
+p{
+	color: white;
+}
+.btn-outline-secondary{
+	align-items: center;
+}
+
+
